@@ -48,7 +48,7 @@
     "grainsize": "",
     "hops": "",
     "identifier": "100738",
-    "increment": null,
+    "increment": 2,
     "instrument_name": "",
     "intensity_scalar": 0.0,
     "irradiation": "AGESLDEO-113",
@@ -100,14 +100,14 @@
     "rlocation": "",
     "sample": "GP103",
     "source": {
-        "emission": 1193.9,
-        "trap": 200.01645
+        "emission": 1193.4,
+        "trap": 199.91589
     },
     "spec_sha": "2a813acaeadcd92be2a57b36b35c0e0943859370",
-    "timestamp": "2021-05-17T14:47:22.497194",
+    "timestamp": "2021-05-17T19:11:31.894035",
     "tripped_conditional": null,
     "unit": "",
     "username": "root",
-    "uuid": "8e52d40e-5c65-4fef-a835-bb6df0a543a5",
+    "uuid": "b5b7ab97-ecda-40d3-baa1-0db7d929050a",
     "whiff_result": null
 }
