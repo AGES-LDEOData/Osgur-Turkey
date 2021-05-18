@@ -1,6 +1,6 @@
 {
     "acquisition_software": "pychron 19.6",
-    "aliquot": 5,
+    "aliquot": 3,
     "analysis_type": "unknown",
     "analyst_name": "root",
     "arar_mapping": {
@@ -48,7 +48,7 @@
     "grainsize": "",
     "hops": "",
     "identifier": "100738",
-    "increment": null,
+    "increment": 3,
     "instrument_name": "",
     "intensity_scalar": 0.0,
     "irradiation": "AGESLDEO-113",
@@ -100,14 +100,14 @@
     "rlocation": "",
     "sample": "GP103",
     "source": {
-        "emission": 1193.57,
-        "trap": 199.87285
+        "emission": 1192.39,
+        "trap": 199.92595
     },
     "spec_sha": "2a813acaeadcd92be2a57b36b35c0e0943859370",
-    "timestamp": "2021-05-17T17:21:01.488453",
+    "timestamp": "2021-05-17T22:05:38.423198",
     "tripped_conditional": null,
     "unit": "",
     "username": "root",
-    "uuid": "e0e7574c-dae8-4f04-b09d-8f1d3d937f8c",
+    "uuid": "7145b11a-73b9-4183-93b5-c262b2724115",
     "whiff_result": null
 }
